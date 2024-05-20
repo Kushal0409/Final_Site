@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="emp_data.xsl"?>
+<emp_details>
+<emp>
+<ID>101</ID>
+<name>Bob Dylan</name>
+<position>Manager</position>
+<company>Infosys</company>
+<salary>30000</salary>
+<DOJ>2015</DOJ>
+</emp>
+<emp>
+<ID>102</ID>
+<name>Preeti Gujar</name>
+<position>HR</position>
+<company>Persistent</company>
+<salary>45000</salary>
+<DOJ>2013</DOJ>
+</emp>
+<emp>
+<ID>103</ID>
+<name>Mangesh Kale</name>
+<position>Production Manager</position>
+<company>Infosys</company>
+<salary>65000</salary>
+<DOJ>2010</DOJ>
+</emp>
+<emp>
+<ID>104</ID>
+<name>Sanaya Vaze</name>
+<position>Intern</position>
+<company>Microsoft</company>
+<salary>20000</salary>
+<DOJ>2022</DOJ>
+</emp>
+<emp>
+<ID>105</ID>
+<name>Harsh</name>
+<position>Professor</position>
+<company>Symbiosis</company>
+<salary>55000</salary>
+<DOJ>2021</DOJ>
+</emp>
+</emp_details>
